@@ -5,8 +5,9 @@
 * {
     padding: 0;
     margin: 0;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Quicksand', sans-serif;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 .Hero {
